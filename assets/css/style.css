@@ -37,3 +37,6 @@ main section h2{
     font-size: 40px;
 }
 
+main section .row div img{
+    width: 400px;
+}
