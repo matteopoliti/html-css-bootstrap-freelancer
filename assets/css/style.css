@@ -1,0 +1,21 @@
+.header_bg{
+    background-color: #2C3E50;
+}
+
+header div i{
+    border: 1px solid white;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+header div h4{
+    margin: 0;
+}
+
+header div ul li{
+    list-style-type: none;
+}
+
+header div ul{
+    margin: 0;
+}
