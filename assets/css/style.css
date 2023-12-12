@@ -34,9 +34,21 @@ main section figure img{
 
 
 main section h2{
-    font-size: 40px;
+    font-size: clamp(2.5rem, 5vw, 4rem);
 }
 
 main section .row div img{
     width: 100%;
+}
+
+main section h3{
+    font-size: clamp(1.5rem, 5vw, 3.5rem);
+}
+
+main section .download{
+    border: 1px solid white;
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
 }
