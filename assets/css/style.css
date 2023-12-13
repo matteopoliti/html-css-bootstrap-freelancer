@@ -51,12 +51,8 @@ footer div h3{
     font-size: clamp(1.5rem, 5vw, 3.5rem);
 }
 
-footer div div .send{
+footer .send{
     background-color: #1abc9c;
-    padding: 10px;
-    border-radius: 5px;
-    color: white;
-    text-decoration: none;
 }
 
 .footer_bg{
